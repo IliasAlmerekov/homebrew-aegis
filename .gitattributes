@@ -1,0 +1,4 @@
+* text=auto
+*.rb text
+  eol=lf
+Formula/*.rb text eol=lf
